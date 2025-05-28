@@ -8,12 +8,21 @@ Alfred Hitchcock on Dead Bodies,dcterms:description,"Recorded audio from an inte
 Alfred Hitchcock on Dead Bodies,dcterms:relevance,Shows Hitchcock’s view on the genre and British humor; demonstrates his continued relevance.
 Alfred Hitchcock on Dead Bodies,dcterms:conformsTo,https://archive.org/details/youtube-qspOvrVArjI
 Alfred Hitchcock on Dead Bodies,schema:inLanguage,English
-Alfred Hitchcock on Dead Bodies,schema:about,https://www.wikidata.org/wiki/Q7374 (Hitchcock)
-Alfred Hitchcock on Dead Bodies,schema:about,https://www.wikidata.org/wiki/Q5145067 (Colin Edwards)
-Alfred Hitchcock on Dead Bodies,schema:about,https://www.wikidata.org/wiki/Q116897527 (Blank on Blank)
-Alfred Hitchcock on Dead Bodies,schema:about,https://www.wikidata.org/wiki/Q2045587 (Pacifica Radio)
-Alfred Hitchcock on Dead Bodies,schema:provider,https://www.wikidata.org/wiki/Q461 (Internet Archive)
-Alfred Hitchcock on Dead Bodies,dcterms:subject,http://vocab.getty.edu/aat/300026392 (Interview)
-Alfred Hitchcock on Dead Bodies,dcterms:subject,http://vocab.getty.edu/aat/300410317 (Animated film)
-Alfred Hitchcock on Dead Bodies,dcterms:subject,http://id.loc.gov/authorities/subjects/sh85043984 (English wit and humor)
-Alfred Hitchcock on Dead Bodies,dcterms:subject,http://vocab.getty.edu/aat/300375154 (Horror film)
+Alfred Hitchcock on Dead Bodies,schema:about,https://www.wikidata.org/wiki/Q7374
+Alfred Hitchcock on Dead Bodies,schema:about,https://www.wikidata.org/wiki/Q5145067
+Alfred Hitchcock on Dead Bodies,schema:about,https://www.wikidata.org/wiki/Q116897527
+Alfred Hitchcock on Dead Bodies,schema:about,https://www.wikidata.org/wiki/Q2045587
+Alfred Hitchcock on Dead Bodies,schema:provider,https://www.wikidata.org/wiki/Q461
+Alfred Hitchcock on Dead Bodies,dcterms:subject,http://vocab.getty.edu/aat/300026392
+Alfred Hitchcock on Dead Bodies,dcterms:subject,http://vocab.getty.edu/aat/300410317
+Alfred Hitchcock on Dead Bodies,dcterms:subject,http://id.loc.gov/authorities/subjects/sh85043984
+Alfred Hitchcock on Dead Bodies,dcterms:subject,http://vocab.getty.edu/aat/300375154
+
+https://www.wikidata.org/wiki/Q7374,rdf:type,schema:Person
+https://www.wikidata.org/wiki/Q5145067,rdf:type,schema:Person
+https://www.wikidata.org/wiki/Q5145067,schema:author,http://vocab.getty.edu/aat/300026392
+https://www.wikidata.org/wiki/Q116897527,rdf:type,foaf:organization
+http://vocab.getty.edu/aat/300410317,rdf:type,schema:VideoObject
+http://vocab.getty.edu/aat/300026392,rdf:type,schema:CreativeWork 
+http://vocab.getty.edu/aat/300375154,rdf:type,schema:genre
+http://id.loc.gov/authorities/subjects/sh85043984,rdf:type,loc:concept 
