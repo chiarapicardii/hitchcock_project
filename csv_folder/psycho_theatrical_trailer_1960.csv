@@ -1,14 +1,16 @@
 Subject,Predicate,Object
 Psycho Theatrical Trailer (1960),dcterms:title,Psycho's theatrical trailer
-Psycho Theatrical Trailer (1960),rdf:type,Video - Promotional video
-Psycho Theatrical Trailer (1960),schema:creator,[Alfred Hitchcock](https://viaf.org/viaf/49226917)
-Psycho Theatrical Trailer (1960),dcterms:date,1960
-Psycho Theatrical Trailer (1960),dcterms:provenance,[Wikimedia Commons](https://commons.wikimedia.org)
-Psycho Theatrical Trailer (1960),dcterms:description,Psycho’s trailer where Hitchcock shows the audience the movie’s set like he was a tour guide.
-Psycho Theatrical Trailer (1960),schema:about,Marketing of the movie; Hitchcock as a guide in a crime scene setup culminating in Janet Leigh’s scream; Trailer’s instruction: «The picture you must see from the beginning… Or not at all!...»
+Psycho Theatrical Trailer (1960),rdf:type,https://schema.org/VideoObject
+Psycho Theatrical Trailer (1960),schema:creator,https://viaf.org/viaf/49226917
+Psycho Theatrical Trailer (1960),dcterms:date,"1960"
+Psycho Theatrical Trailer (1960),dcterms:provenance,https://commons.wikimedia.org
+Psycho Theatrical Trailer (1960),dcterms:description,"Psycho’s trailer where Hitchcock shows the audience the movie’s set like he was a tour guide."
+Psycho Theatrical Trailer (1960),schema:about,"Marketing of the movie; Hitchcock as a guide in a crime scene setup culminating in Janet Leigh’s scream; Trailer’s instruction: «The picture you must see from the beginning… Or not at all!...»"
 Psycho Theatrical Trailer (1960),schema:encodingFormat,https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling
-Psycho Theatrical Trailer (1960),schema:about,[Psycho (film)](https://www.wikidata.org/wiki/Q163038)
-Psycho Theatrical Trailer (1960),dcterms:source,[Internet Archive](https://www.wikidata.org/wiki/Q461)
-Psycho Theatrical Trailer (1960),dcterms:subject,[Trailers](http://id.loc.gov/authorities/classification/PN1995.9.T68)
-Psycho Theatrical Trailer (1960),dcterms:subject,[Film sets](http://vocab.getty.edu/aat/300435206)
-Psycho Theatrical Trailer (1960),dcterms:subject,[Advertising campaigns](http://vocab.getty.edu/aat/300069789)
+Psycho Theatrical Trailer (1960),schema:about,https://www.wikidata.org/wiki/Q163038
+Psycho Theatrical Trailer (1960),dcterms:source,https://www.wikidata.org/wiki/Q461
+Psycho Theatrical Trailer (1960),dcterms:subject,http://id.loc.gov/authorities/classification/PN1995.9.T68
+Psycho Theatrical Trailer (1960),dcterms:subject,http://vocab.getty.edu/aat/300435206
+Psycho Theatrical Trailer (1960),dcterms:subject,http://vocab.getty.edu/aat/300069789
+Psycho Theatrical Trailer (1960),schema:isPartOf,http://vocab.getty.edu/aat/300069789
+https://viaf.org/viaf/49226917,schema:director,https://www.wikidata.org/wiki/Q163038
