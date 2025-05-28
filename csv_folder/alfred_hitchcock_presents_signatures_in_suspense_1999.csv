@@ -18,3 +18,10 @@ Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:subject,https:
 Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:subject,http://vocab.getty.edu/aat/300263865
 Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:subject,http://vocab.getty.edu/aat/300263848
 Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:subject,http://vocab.getty.edu/aat/300403969
+
+https://www.wikidata.org/wiki/Q296804,rdf:type,foaf:Person
+https://www.wikidata.org/wiki/Q317033,rdf:type,foaf:Person
+https://id.loc.gov/authorities/subjects/sh95007658,rdf:type,schema:genre
+http://vocab.getty.edu/aat/300263865,rdf:type,schema:MusicAlbumProductionType
+Alfred Hitchcock Presents…Signatures In Suspense (1999),schema:isPartOf,http://vocab.getty.edu/aat/300263865
+http://vocab.getty.edu/aat/300263865,schema:isPartOf,https://id.loc.gov/authorities/subjects/sh95007658
