@@ -1,18 +1,20 @@
 Subject,Predicate,Object
 Psycho Movie Poster (1960),dcterms:title,Psycho's poster
-Psycho Movie Poster (1960),rdf:type,Photo – Movie poster
-Psycho Movie Poster (1960),schema:creator,Vecchioni & Guadagno
-Psycho Movie Poster (1960),dcterms:date,1960
-Psycho Movie Poster (1960),dcterms:source,Biblioteca provinciale La Magna Capitana - Foggia - IT-FG0046
-Psycho Movie Poster (1960),dcterms:provenance,[Europeana](https://www.wikidata.org/wiki/Q234110)
-Psycho Movie Poster (1960),dcterms:description,Psycho’s Italian movie poster.
-Psycho Movie Poster (1960),schema:about,The poster reflects the mysterious and scary themes of the film and includes a key marketing phrase: «è proibito categoricamente entrare in sala dopo l’inizio del film»
-Psycho Movie Poster (1960),schema:encodingFormat,EDM
-Psycho Movie Poster (1960),schema:about,[Psycho (film)](https://www.wikidata.org/wiki/Q374821)
-Psycho Movie Poster (1960),schema:author,[Alfred Hitchcock](https://www.wikidata.org/wiki/Q7374)
-Psycho Movie Poster (1960),schema:about,[Anthony Perkins](https://www.wikidata.org/wiki/Q193146)
-Psycho Movie Poster (1960),schema:about,[Norman Bates](https://www.wikidata.org/wiki/Q2467893)
-Psycho Movie Poster (1960),schema:about,[Janet Leigh](https://www.wikidata.org/wiki/Q205314)
-Psycho Movie Poster (1960),schema:about,[Marion Crane](https://www.wikidata.org/wiki/Q6765157)
-Psycho Movie Poster (1960),dcterms:subject,[Film posters](https://id.loc.gov/authorities/genreForms/gf2017026118.html)
-Psycho Movie Poster (1960),dcterms:subject,[Advertising campaigns](http://vocab.getty.edu/aat/300069789)
+Psycho Movie Poster (1960),rdf:type,https://schema.org/Poster
+Psycho Movie Poster (1960),schema:creator,"Vecchioni & Guadagno"
+Psycho Movie Poster (1960),dcterms:date,"1960"
+Psycho Movie Poster (1960),dcterms:source,"Biblioteca provinciale La Magna Capitana - Foggia - IT-FG0046"
+Psycho Movie Poster (1960),dcterms:provenance,https://www.wikidata.org/wiki/Q234110
+Psycho Movie Poster (1960),dcterms:description,"Psycho’s Italian movie poster".
+Psycho Movie Poster (1960),schema:about,"The poster reflects the mysterious and scary themes of the film and includes a key marketing phrase: «è proibito categoricamente entrare in sala dopo l’inizio del film»"
+Psycho Movie Poster (1960),schema:encodingFormat,"EDM"
+Psycho Movie Poster (1960),schema:about,https://www.wikidata.org/wiki/Q374821
+Psycho Movie Poster (1960),schema:author,https://www.wikidata.org/wiki/Q7374
+Psycho Movie Poster (1960),schema:about,https://www.wikidata.org/wiki/Q193146
+Psycho Movie Poster (1960),schema:about,https://www.wikidata.org/wiki/Q2467893
+Psycho Movie Poster (1960),schema:about,https://www.wikidata.org/wiki/Q205314
+Psycho Movie Poster (1960),schema:about,https://www.wikidata.org/wiki/Q6765157
+Psycho Movie Poster (1960),dcterms:subject,https://id.loc.gov/authorities/genreForms/gf2017026118.html
+Psycho Movie Poster (1960),dcterms:subject,http://vocab.getty.edu/aat/300069789
+
+http://vocab.getty.edu/aat/300069789,rdf:type,schema:CreativeWork
