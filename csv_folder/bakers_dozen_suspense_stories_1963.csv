@@ -1,14 +1,20 @@
 Subject,Predicate,Object
-A Bakers Dozen of Suspense Stories (1963),dcterms:title,A Bakers Dozen of suspense stories
-A Bakers Dozen of Suspense Stories (1963),rdf:type,Text – Pulp magazine
-A Bakers Dozen of Suspense Stories (1963),schema:creator,[Alfred Hitchcock (editor)](https://viaf.org/viaf/49226917)
-A Bakers Dozen of Suspense Stories (1963),dcterms:date,1963-12-01
-A Bakers Dozen of Suspense Stories (1963),dcterms:publisher,[Dell publishing](https://www.wikidata.org/wiki/Q2075464)
-A Bakers Dozen of Suspense Stories (1963),dcterms:provenance,[Internet Archive](https://www.wikidata.org/wiki/Q461)
-A Bakers Dozen of Suspense Stories (1963),dcterms:description,A Pulp magazine (scanned by https://pulpscans.groups.io/g/main) which includes stories by famous authors and an introduction by Alfred Hitchcock.
-A Bakers Dozen of Suspense Stories (1963),schema:about,Highlights Hitchcock’s interest in suspense literature and authors who likely influenced him.
-A Bakers Dozen of Suspense Stories (1963),schema:encodingFormat,Internet Archive metadata model
-A Bakers Dozen of Suspense Stories (1963),schema:author,[Alfred Hitchcock](https://www.wikidata.org/wiki/Q7374)
-A Bakers Dozen of Suspense Stories (1963),dcterms:subject,[Suspense fiction](https://id.loc.gov/authorities/classification/PN3448.S86.html)
-A Bakers Dozen of Suspense Stories (1963),dcterms:subject,[Detective and mystery stories](https://id.loc.gov/authorities/classification/PS648.D4.html)
-A Bakers Dozen of Suspense Stories (1963),dcterms:subject,[Alfred Hitchcock](https://id.loc.gov/authorities/classification/Z8408.8.html)
+A Bakers Dozen of Suspense Stories (1963),dcterms:title,"A Bakers Dozen of suspense stories"
+A Bakers Dozen of Suspense Stories (1963),rdf:type,schema:Periodical
+A Bakers Dozen of Suspense Stories (1963),schema:editor,https://viaf.org/viaf/49226917
+A Bakers Dozen of Suspense Stories (1963),dcterms:date,"1963-12-01"
+A Bakers Dozen of Suspense Stories (1963),dcterms:publisher,https://www.wikidata.org/wiki/Q2075464
+A Bakers Dozen of Suspense Stories (1963),dcterms:provenance,https://www.wikidata.org/wiki/Q461
+A Bakers Dozen of Suspense Stories (1963),dcterms:description, "A Pulp magazine (scanned by https://pulpscans.groups.io/g/main) which includes stories by famous authors and an introduction by Alfred Hitchcock."
+A Bakers Dozen of Suspense Stories (1963),schema:about,"Highlights Hitchcock’s interest in suspense literature and authors who likely influenced him."
+A Bakers Dozen of Suspense Stories (1963),schema:encodingFormat,"Internet Archive metadata model"
+A Bakers Dozen of Suspense Stories (1963),schema:author,https://www.wikidata.org/wiki/Q7374
+A Bakers Dozen of Suspense Stories (1963),dcterms:subject,https://id.loc.gov/authorities/classification/PN3448.S86.html
+A Bakers Dozen of Suspense Stories (1963),dcterms:subject,https://id.loc.gov/authorities/classification/PS648.D4.html
+A Bakers Dozen of Suspense Stories (1963),dcterms:subject,https://id.loc.gov/authorities/classification/Z8408.8.html
+
+https://viaf.org/viaf/49226917,rdf:type,foaf:Person
+https://www.wikidata.org/wiki/Q2075464,rdf:type,foaf:Organization
+https://id.loc.gov/authorities/classification/PN3448.S86,rdf:type,schema:genre
+https://id.loc.gov/authorities/classification/PS648.D4,rdf:type,schema:genre
+A Bakers Dozen of Suspense Stories (1963),schema:isPartOf,https://id.loc.gov/authorities/classification/PS648.D4
