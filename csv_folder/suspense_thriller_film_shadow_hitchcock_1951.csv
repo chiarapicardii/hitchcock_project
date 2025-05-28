@@ -1,14 +1,21 @@
 Subject,Predicate,Object
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:title,The suspense thriller: films in the shadow of Alfred Hitchcock
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),rdf:type,Text – Book
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:author,[Charles Derry](https://www.wikidata.org/wiki/Q94275676)
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:about,[Alfred Hitchcock](https://www.wikidata.org/wiki/Q7374)
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:datePublished,1951
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:publisher,McFarland Publishing
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:provenance,[Internet Archive](https://www.wikidata.org/wiki/Q461)
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:title,"The suspense thriller: films in the shadow of Alfred Hitchcock"
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),rdf:type,https://schema.org/Book
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:author,https://www.wikidata.org/wiki/Q94275676
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:about,https://www.wikidata.org/wiki/Q7374
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:datePublished,"1951"
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:publisher,"McFarland Publishing"
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:provenance,https://www.wikidata.org/wiki/Q461
 The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:description,"Charles Derry examines thriller genre authors, presenting a manual to craft Hitchcock-style suspense films."
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:encodingFormat,MARC21 Format for Bibliographic data (xmlns=http://www.loc.gov/MARC21/slim)
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:subject,"[Suspense in motion pictures, television, etc.](https://id.loc.gov/authorities/subjects/sh95007658.html)"
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:subject,"[Suspense in motion pictures, television, etc. (FAST)](https://id.worldcat.org/fast/1199721/)"
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:subject,[Thrillers (Motion pictures)](http://id.loc.gov/authorities/subjects/sh2008005607)
-The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:subject,"[Influence (Literary, artistic, etc.)](http://id.loc.gov/authorities/classification/PN56.I593)"
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),schema:encodingFormat, "MARC21 Format for Bibliographic data (xmlns=http://www.loc.gov/MARC21/slim)"
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:subject,https://id.loc.gov/authorities/subjects/sh95007658.html
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:subject,https://id.worldcat.org/fast/1199721/)
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:subject,http://id.loc.gov/authorities/subjects/sh2008005607
+The suspense thriller: films in the shadow of Alfred Hitchcock (1951),dcterms:subject,http://id.loc.gov/authorities/classification/PN56.I593
+
+https://www.wikidata.org/wiki/Q94275676,rdf:type,http://xmlns.com/foaf/0.1/Person
+https://www.wikidata.org/wiki/Q7374,rdf:type,http://xmlns.com/foaf/0.1/Person
+https://www.wikidata.org/wiki/Q7374,dcterms:relation,https://id.loc.gov/authorities/subjects/sh95007658.html
+
+
+
