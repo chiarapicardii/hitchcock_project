@@ -17,4 +17,4 @@ Subject,Predicate,Object
 "Psycho Movie Poster (1960)",dcterms:subject,https://id.loc.gov/authorities/genreForms/gf2017026118.html
 "Psycho Movie Poster (1960)",dcterms:subject,http://vocab.getty.edu/aat/300069789
 
-http://vocab.getty.edu/aat/300069789,rdf:type,schema:CreativeWork
+http://vocab.getty.edu/aat/300069789,rdf:type,https://schema.org/CreativeWork
