@@ -1,11 +1,11 @@
 Subject,Predicate,Object
-Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:title,Alfred Hitchcock Presents…Signatures In Suspense
-Alfred Hitchcock Presents…Signatures In Suspense (1999),rdf:type,Audio – Soundtrack compilation
+Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:title,"Alfred Hitchcock Presents…Signatures In Suspense"
+Alfred Hitchcock Presents…Signatures In Suspense (1999),rdf:type,https://schema.org/album
 Alfred Hitchcock Presents…Signatures In Suspense (1999),schema:creator,"Bernard Herrmann (tracks: 5 to 9, 11 to 13, 16, 18), Dimitri Tiomkin (tracks: 2, 3)"
-Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:date,1999
+Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:date,"1999"
 Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:publisher,"Universal Music & Video Distribution, Inc."
-Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:source,Internet Archive
-Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:description,It’s a soundtrack compilation from many of Hitchcock best known movies.
+Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:source,https://archive.org/
+Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:description,"It’s a soundtrack compilation from many of Hitchcock best known movies."
 Alfred Hitchcock Presents…Signatures In Suspense (1999),schema:about,"The collaboration with Herrmann was central in his cinematography and it’s important to underline the role of music in the movie production, especially Hitchcock’s suspenseful one."
 Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:conformsTo,https://archive.org
 Alfred Hitchcock Presents…Signatures In Suspense (1999),skos:closeMatch,https://viaf.org/en/viaf/49226917
@@ -19,9 +19,9 @@ Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:subject,http:/
 Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:subject,http://vocab.getty.edu/aat/300263848
 Alfred Hitchcock Presents…Signatures In Suspense (1999),dcterms:subject,http://vocab.getty.edu/aat/300403969
 
-https://www.wikidata.org/wiki/Q296804,rdf:type,foaf:Person
-https://www.wikidata.org/wiki/Q317033,rdf:type,foaf:Person
-https://id.loc.gov/authorities/subjects/sh95007658,rdf:type,schema:genre
-http://vocab.getty.edu/aat/300263865,rdf:type,schema:MusicAlbumProductionType
+https://www.wikidata.org/wiki/Q296804,rdf:type,http://xmlns.com/foaf/spec/#term_Person
+https://www.wikidata.org/wiki/Q317033,rdf:type,http://xmlns.com/foaf/spec/#term_Person
+https://id.loc.gov/authorities/subjects/sh95007658,rdf:type,https://schema.org/genre
+http://vocab.getty.edu/aat/300263865,rdf:type,https://schema.org/MusicAlbumProductionType
 Alfred Hitchcock Presents…Signatures In Suspense (1999),schema:isPartOf,http://vocab.getty.edu/aat/300263865
 http://vocab.getty.edu/aat/300263865,schema:isPartOf,https://id.loc.gov/authorities/subjects/sh95007658
