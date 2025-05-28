@@ -18,11 +18,11 @@ Alfred Hitchcock on Dead Bodies,dcterms:subject,http://vocab.getty.edu/aat/30041
 Alfred Hitchcock on Dead Bodies,dcterms:subject,http://id.loc.gov/authorities/subjects/sh85043984
 Alfred Hitchcock on Dead Bodies,dcterms:subject,http://vocab.getty.edu/aat/300375154
 
-https://www.wikidata.org/wiki/Q7374,rdf:type,schema:Person
-https://www.wikidata.org/wiki/Q5145067,rdf:type,schema:Person
+https://www.wikidata.org/wiki/Q7374,rdf:type,http://xmlns.com/foaf/spec/#term_Person
+https://www.wikidata.org/wiki/Q5145067,rdf:type,http://xmlns.com/foaf/spec/#term_Person
 https://www.wikidata.org/wiki/Q5145067,schema:author,http://vocab.getty.edu/aat/300026392
-https://www.wikidata.org/wiki/Q116897527,rdf:type,foaf:organization
-http://vocab.getty.edu/aat/300410317,rdf:type,schema:VideoObject
-http://vocab.getty.edu/aat/300026392,rdf:type,schema:CreativeWork 
-http://vocab.getty.edu/aat/300375154,rdf:type,schema:genre
-http://id.loc.gov/authorities/subjects/sh85043984,rdf:type,skos:Concept
+https://www.wikidata.org/wiki/Q116897527,rdf:type,https://schema.org/Organization
+http://vocab.getty.edu/aat/300410317,rdf:type,https://schema.org/VideoObject
+http://vocab.getty.edu/aat/300026392,rdf:type,https://schema.org/CreativeWork
+http://vocab.getty.edu/aat/300375154,rdf:type,https://schema.org/genre
+http://id.loc.gov/authorities/subjects/sh85043984,rdf:type,https://id.loc.gov/resources/works/10652971.html
