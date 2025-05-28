@@ -1,0 +1,10 @@
+Item,FRBRtype,Related_to
+https://www.wikidata.org/wiki/Q163038,http://iflastandards.info/ns/fr/frbr/frbrer/C1001, 
+"Psycho Screenplay",http://iflastandards.info/ns/fr/frbr/frbrer/C1002,https://www.wikidata.org/wiki/Q163038
+"Psycho Screenplay Digital",http://iflastandards.info/ns/fr/frbr/frbrer/C1003,"Psycho Screenplay"
+https://archive.org/details/psycho-1960-11.10.1959/page/n1/mode/1up,http://iflastandards.info/ns/fr/frbr/frbrer/C1004,"Psycho Screenplay Digital"
+
+https://www.wikidata.org/wiki/Q1170179,http://iflastandards.info/ns/fr/frbr/frbrer/C1001,
+"Lifeboat Storyboard",http://iflastandards.info/ns/fr/frbr/frbrer/C1002,https://www.wikidata.org/wiki/Q1170179 
+"Lifeboat Storyboard scan",http://iflastandards.info/ns/fr/frbr/frbrer/C1003,"Lifeboat Storyboard"
+https://digitalcollections.oscars.org/digital/collection/p15759coll7/id/23/rec/1,http://iflastandards.info/ns/fr/frbr/frbrer/C1004,"Lifeboat Storyboard scan"
