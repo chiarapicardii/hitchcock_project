@@ -25,4 +25,4 @@ https://www.wikidata.org/wiki/Q116897527,rdf:type,foaf:organization
 http://vocab.getty.edu/aat/300410317,rdf:type,schema:VideoObject
 http://vocab.getty.edu/aat/300026392,rdf:type,schema:CreativeWork 
 http://vocab.getty.edu/aat/300375154,rdf:type,schema:genre
-http://id.loc.gov/authorities/subjects/sh85043984,rdf:type,loc:concept 
+http://id.loc.gov/authorities/subjects/sh85043984,rdf:type,skos:Concept
