@@ -1,6 +1,6 @@
 Subject,Predicate,Object
 "Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/title,"Alfred Hitchcock on Dead Bodies"
-"Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/type,https://schema.org/VideoObject
+"Alfred Hitchcock on Dead Bodies",http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/VideoObject
 "Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/creator, https://www.wikidata.org/wiki/Q116897527
 "Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/date,"2017-03-07"
 "Alfred Hitchcock on Dead Bodies",https://schema.org/publisher, https://www.wikidata.org/wiki/Q461
