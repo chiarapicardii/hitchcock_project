@@ -1,18 +1,19 @@
 Subject,Predicate,Object
 "Psycho – the Screenplay (1960)",http://purl.org/dc/terms/title,"Psycho – the Screenplay"
 "Psycho – the Screenplay (1960)",http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/WriteAction
-"Psycho – the Screenplay (1960)",https://schema.org/author,http://viaf.org/viaf/46961739
+"Psycho – the Screenplay (1960)",https://schema.org/author,https://viaf.org/viaf/46961739
 "Psycho – the Screenplay (1960)",https://schema.org/director,https://www.wikidata.org/wiki/Q7374
 "Psycho – the Screenplay (1960)",http://purl.org/dc/terms/date,"1960"
-"Psycho – the Screenplay (1960)",http://purl.org/dc/terms/language,"English"
+"Psycho – the Screenplay (1960)",http://purl.org/dc/terms/language, https://www.wikidata.org/wiki/Q1860
 "Psycho – the Screenplay (1960)",http://purl.org/dc/terms/provenance,https://www.wikidata.org/wiki/Q461
 "Psycho – the Screenplay (1960)",http://purl.org/dc/terms/description,"Psycho script scan showing Hitchcock's detailed approach to atmosphere and visual storytelling."
 "Psycho – the Screenplay (1960)",https://schema.org/encodingFormat,"Internet Archive metadata model"
 "Psycho – the Screenplay (1960)",https://schema.org/isPartOf,http://vocab.getty.edu/aat/300263876
-"Psycho – the Screenplay (1960)",http://purl.org/dc/terms/subject,http://id.loc.gov/authorities/subjects/sh85088064
-"Psycho – the Screenplay (1960)",http://purl.org/dc/terms/subject,http://id.loc.gov/authorities/subjects/sh2008005607
+"Psycho – the Screenplay (1960)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/subjects/sh85088064
+"Psycho – the Screenplay (1960)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/subjects/sh2008005607
 "Psycho – the Screenplay (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q193146
 "Psycho – the Screenplay (1960)",https://schema.org/character,https://www.wikidata.org/wiki/Q2467893
 "Psycho – the Screenplay (1960)",https://schema.org/character,https://www.wikidata.org/wiki/Q6765157
 "Psycho – the Screenplay (1960)",https://schema.org/actor,https://www.wikidata.org/wiki/Q193146
 "Psycho – the Screenplay (1960)",https://schema.org/actor,https://www.wikidata.org/wiki/Q205314
+

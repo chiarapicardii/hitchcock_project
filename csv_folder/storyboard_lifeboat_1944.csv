@@ -3,15 +3,14 @@ Subject,Predicate,Object
 "Storyboard for Lifeboat (1944)",https://schema.org/director,https://viaf.org/viaf/49226917
 "Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/date,"1944"
 "Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/isPartOf,https://www.wikidata.org/wiki/Q17052709
-"Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/subject,http://id.loc.gov/authorities/subjects/sh93006433
+"Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/subjects/sh93006433
 "Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300263876
 "Storyboard for Lifeboat (1944)",https://schema.org/about,https://www.wikidata.org/wiki/Q1170179
-"Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/language,http://id.loc.gov/vocabulary/iso639-1/en
+"Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/language,https://www.wikidata.org/wiki/Q1860
 "Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/provenance,https://www.wikidata.org/wiki/Q17052709
 "Storyboard for Lifeboat (1944)",https://schema.org/locationCreated,https://www.wikidata.org/wiki/Q17052709
 "Storyboard for Lifeboat (1944)",http://www.w3.org/2004/02/skos/core#closeMatch,https://viaf.org/viaf/49226917
 "Storyboard for Lifeboat (1944)",http://www.w3.org/2004/02/skos/core#closeMatch,https://www.wikidata.org/wiki/Q1170179
-"Storyboard for Lifeboat (1944)",http://www.w3.org/2004/02/skos/core#inScheme,https://www.wikidata.org/wiki/Q1705270
 "Storyboard for Lifeboat (1944)",http://purl.org/dc/terms/description,"Storyboard for Alfred Hitchcock's production of Lifeboat (1944), depicting multiple scenes with annotations and script excerpts, offering insights into the film's visual and directorial approach."
 
 "Storyboard for Lifeboat (1944)", http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/VisualArtwork

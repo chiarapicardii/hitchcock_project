@@ -6,7 +6,7 @@ Subject,Predicate,Object
 "Alfred Hitchcock on Dead Bodies",https://schema.org/publisher, https://www.wikidata.org/wiki/Q461
 "Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/description,"Recorded audio from an interview with Colin Edwards in 1957 on Pacifica Radio, animated by Blank on Blank. Hitchcock discusses his view on terror and British irony."
 "Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/conformsTo, https://archive.org/details/youtube-qspOvrVArjI
-"Alfred Hitchcock on Dead Bodies",https://schema.org/inLanguage,"English"
+"Alfred Hitchcock on Dead Bodies",https://schema.org/inLanguage, https://www.wikidata.org/wiki/Q1860
 "Alfred Hitchcock on Dead Bodies",https://schema.org/about, https://www.wikidata.org/wiki/Q7374
 "Alfred Hitchcock on Dead Bodies",https://schema.org/about, https://www.wikidata.org/wiki/Q5145067
 "Alfred Hitchcock on Dead Bodies",https://schema.org/about, https://www.wikidata.org/wiki/Q116897527
@@ -14,14 +14,14 @@ Subject,Predicate,Object
 "Alfred Hitchcock on Dead Bodies",https://schema.org/provider, https://www.wikidata.org/wiki/Q461
 "Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/subject, http://vocab.getty.edu/aat/300026392
 "Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/subject, http://vocab.getty.edu/aat/300410317
-"Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/subject, http://id.loc.gov/authorities/subjects/sh85043984
+"Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/subject, https://id.loc.gov/authorities/subjects/sh85043984
 "Alfred Hitchcock on Dead Bodies",http://purl.org/dc/terms/subject, http://vocab.getty.edu/aat/300375154
 
-https://www.wikidata.org/wiki/Q7374, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/spec/#term_Person
-https://www.wikidata.org/wiki/Q5145067, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/spec/#term_Person
+https://www.wikidata.org/wiki/Q7374, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
+https://www.wikidata.org/wiki/Q5145067, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
 https://www.wikidata.org/wiki/Q5145067, http://www.w3.org/1999/02/22-rdf-syntax-ns#author, http://vocab.getty.edu/aat/300026392
 https://www.wikidata.org/wiki/Q116897527, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/Organization
 http://vocab.getty.edu/aat/300410317, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/VideoObject
 http://vocab.getty.edu/aat/300026392, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/CreativeWork
 http://vocab.getty.edu/aat/300375154, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/genre
-http://id.loc.gov/authorities/subjects/sh85043984, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://id.loc.gov/resources/works/10652971
+https://id.loc.gov/authorities/subjects/sh85043984, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://www.w3.org/2004/02/skos/core#Concept

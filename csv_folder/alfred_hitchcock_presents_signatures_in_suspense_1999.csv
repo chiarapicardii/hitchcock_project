@@ -1,27 +1,28 @@
 Subject,Predicate,Object
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/title,"Alfred Hitchcock Presents…Signatures In Suspense"
-"Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://https://schema.org/.org/album
-"Alfred Hitchcock Presents…Signatures In Suspense (1999)",https://schema.org/creator,"Bernard Herrmann (tracks: 5 to 9, 11 to 13, 16, 18), Dimitri Tiomkin (tracks: 2, 3)"
+"Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/album
+"Alfred Hitchcock Presents…Signatures In Suspense (1999)",https://schema.org/composer,"Bernard Herrmann (tracks: 5 to 9, 11 to 13, 16, 18), Dimitri Tiomkin (tracks: 2, 3)"
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/date,"1999"
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/publisher,"Universal Music & Video Distribution, Inc."
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/source,https://archive.org/ 
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/description,"It’s a soundtrack compilation from many of Hitchcock best known movies."
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",https://schema.org/about,"The collaboration with Herrmann was central in his cinematography and it’s important to underline the role of music in the movie production, especially Hitchcock’s suspenseful one."
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/conformsTo,https://www.wikidata.org/wiki/Q461
-"Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/2004/02/skos/core#closeMatch,https://viaf.org/en/viaf/49226917
+"Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/2004/02/skos/core#closeMatch,https://www.wikidata.org/wiki/Q7374
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/2004/02/skos/core#closeMatch,https://www.wikidata.org/wiki/Q7374
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/2004/02/skos/core#closeMatch,https://www.wikidata.org/wiki/Q296804
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/2004/02/skos/core#closeMatch,https://www.wikidata.org/wiki/Q317033
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/2004/02/skos/core#closeMatch,https://www.wikidata.org/wiki/Q461
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://www.w3.org/2004/02/skos/core#closeMatch,https://www.wikidata.org/wiki/Q38903
-"Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/subjects/sh95007658.html
+"Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/subjects/sh95007658
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300263865
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300263848
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300403969
 
-https://www.wikidata.org/wiki/Q296804, http://www.w3.org/1999/02/22-http://www.w3.org/1999/02/22-rdf-syntax-ns#-syntax-ns#type, http://xmlns.com/foaf/spec/#term_Person
-https://www.wikidata.org/wiki/Q317033, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/spec/#term_Person
-https://id.loc.gov/authorities/subjects/sh95007658, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://https://schema.org/.org/genre
-http://vocab.getty.edu/aat/300263865, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://https://schema.org/.org/MusicAlbumProductionType
+https://www.wikidata.org/wiki/Q296804, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
+https://www.wikidata.org/wiki/Q317033, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
+https://id.loc.gov/authorities/subjects/sh95007658, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/genre
+http://vocab.getty.edu/aat/300263865, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.otg/MusicAlbumProductionType
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)", https://schema.org/isPartOf, http://vocab.getty.edu/aat/300263865
 http://vocab.getty.edu/aat/300263865, https://schema.org/isPartOf, https://id.loc.gov/authorities/subjects/sh95007658
+

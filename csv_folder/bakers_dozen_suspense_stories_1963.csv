@@ -9,12 +9,12 @@ Subject,Predicate,Object
 "A Bakers Dozen of Suspense Stories (1963)",https://schema.org/about,"Highlights Hitchcock’s interest in suspense literature and authors who likely influenced him."
 "A Bakers Dozen of Suspense Stories (1963)",https://schema.org/encodingFormat,"Internet Archive metadata model"
 "A Bakers Dozen of Suspense Stories (1963)",https://schema.org/author,https://www.wikidata.org/wiki/Q7374
-"A Bakers Dozen of Suspense Stories (1963)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/classification/PN3448.S86.html
-"A Bakers Dozen of Suspense Stories (1963)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/classification/PS648.D4.html
-"A Bakers Dozen of Suspense Stories (1963)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/classification/Z8408.8.html
+"A Bakers Dozen of Suspense Stories (1963)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/classification/PN3448.S86
+"A Bakers Dozen of Suspense Stories (1963)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/classification/PS648.D4
+"A Bakers Dozen of Suspense Stories (1963)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/classification/Z8408.8
 
-https://viaf.org/viaf/49226917, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/spec/#term_Person
-https://www.wikidata.org/wiki/Q2075464, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/spec/#term_Person
+https://viaf.org/viaf/49226917, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
+https://www.wikidata.org/wiki/Q2075464, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
 https://id.loc.gov/authorities/classification/PN3448.S86, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/genre
 https://id.loc.gov/authorities/classification/PS648.D4, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/genre
 "A Bakers Dozen of Suspense Stories (1963)", https://schema.org/isPartOf, https://id.loc.gov/authorities/classification/PS648.D4

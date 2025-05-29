@@ -1,4 +1,4 @@
-Item,FRBRtype,Related_to
+Subject,Predicate,Object
 https://www.wikidata.org/wiki/Q163038,http://iflastandards.info/ns/fr/frbr/frbrer/C1001, 
 "Psycho Screenplay",http://iflastandards.info/ns/fr/frbr/frbrer/C1002,https://www.wikidata.org/wiki/Q163038
 "Psycho Screenplay Digital",http://iflastandards.info/ns/fr/frbr/frbrer/C1003,"Psycho Screenplay"

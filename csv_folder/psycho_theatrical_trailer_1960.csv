@@ -9,7 +9,7 @@ Subject,Predicate,Object
 "Psycho Theatrical Trailer (1960)",https://schema.org/encodingFormat,https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling
 "Psycho Theatrical Trailer (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q163038
 "Psycho Theatrical Trailer (1960)",http://purl.org/dc/terms/source,https://www.wikidata.org/wiki/Q461
-"Psycho Theatrical Trailer (1960)",http://purl.org/dc/terms/subject,http://id.loc.gov/authorities/classification/PN1995.9.T68
+"Psycho Theatrical Trailer (1960)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/classification/PN1995.9.T68
 "Psycho Theatrical Trailer (1960)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300435206
 "Psycho Theatrical Trailer (1960)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300069789
 "Psycho Theatrical Trailer (1960)",https://schema.org/isPartOf,http://vocab.getty.edu/aat/300069789

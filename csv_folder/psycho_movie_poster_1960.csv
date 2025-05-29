@@ -5,16 +5,15 @@ Subject,Predicate,Object
 "Psycho Movie Poster (1960)",http://purl.org/dc/terms/date,"1960"
 "Psycho Movie Poster (1960)",http://purl.org/dc/terms/source,"Biblioteca provinciale La Magna Capitana - Foggia - IT-FG0046"
 "Psycho Movie Poster (1960)",http://purl.org/dc/terms/provenance,https://www.wikidata.org/wiki/Q234110
-"Psycho Movie Poster (1960)",http://purl.org/dc/terms/description,"Psycho’s Italian movie poster"
-"Psycho Movie Poster (1960)",https://schema.org/about,"The poster reflects the mysterious and scary themes of the film and includes a key marketing phrase: «è proibito categoricamente entrare in sala dopo l’inizio del film»"
+"Psycho Movie Poster (1960)",http://purl.org/dc/terms/description,"The poster reflects the mysterious and scary themes of the film and includes a key marketing phrase: «è proibito categoricamente entrare in sala dopo l’inizio del film»"
 "Psycho Movie Poster (1960)",https://schema.org/encodingFormat, https://www.wikidata.org/wiki/Q110672270
 "Psycho Movie Poster (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q374821
 "Psycho Movie Poster (1960)",https://schema.org/author,https://www.wikidata.org/wiki/Q7374
 "Psycho Movie Poster (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q193146
 "Psycho Movie Poster (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q2467893
 "Psycho Movie Poster (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q205314
-"Psycho Movie Poster (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q6765157
-"Psycho Movie Poster (1960)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/genreForms/gf2017026118.html
-"Psycho Movie Poster (1960)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300069789
+"Psycho Movie Poster (1960)",https://schema.org/about, https://www.wikidata.org/wiki/Q6765157
+"Psycho Movie Poster (1960)",http://purl.org/dc/terms/subject, https://schema.org/Poster
+"Psycho Movie Poster (1960)",http://purl.org/dc/terms/subject, http://vocab.getty.edu/aat/300069789
 
 http://vocab.getty.edu/aat/300069789, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/CreativeWork
