@@ -1,18 +1,18 @@
 Subject,Predicate,Object
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",dcterms:title,"The suspense thriller: films in the shadow of Alfred Hitchcock"
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",rdf:type,https://schema.org/Book
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",schema:author,https://www.wikidata.org/wiki/Q94275676
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",schema:about,https://www.wikidata.org/wiki/Q7374
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",schema:datePublished,"1951"
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",schema:publisher,"McFarland Publishing"
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",dcterms:provenance,https://www.wikidata.org/wiki/Q461
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",dcterms:description,"Charles Derry examines thriller genre authors, presenting a manual to craft Hitchcock-style suspense films."
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",schema:encodingFormat,http://www.loc.gov/MARC21/slim 
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",dcterms:subject,https://id.loc.gov/authorities/subjects/sh95007658
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",dcterms:subject,https://id.worldcat.org/fast/1199721/
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",dcterms:subject,http://id.loc.gov/authorities/subjects/sh2008005607
-"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",dcterms:subject,http://id.loc.gov/authorities/classification/PN56.I593
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",http://purl.org/dc/terms/title,"The suspense thriller: films in the shadow of Alfred Hitchcock"
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Book
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",https://schema.org/author,https://www.wikidata.org/wiki/Q94275676
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",https://schema.org/about,https://www.wikidata.org/wiki/Q7374
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",https://schema.org/datePublished,"1951"
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",https://schema.org/publisher,"McFarland Publishing"
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",http://purl.org/dc/terms/provenance,https://www.wikidata.org/wiki/Q461
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",http://purl.org/dc/terms/description,"Charles Derry examines thriller genre authors, presenting a manual to craft Hitchcock-style suspense films."
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",https://schema.org/encodingFormat,http://www.loc.gov/MARC21/slim 
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/subjects/sh95007658.html
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",http://purl.org/dc/terms/subject,https://id.worldcat.org/fast/1199721/
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",http://purl.org/dc/terms/subject,http://id.loc.gov/authorities/subjects/sh2008005607
+"The suspense thriller: films in the shadow of Alfred Hitchcock (1951)",http://purl.org/dc/terms/subject,http://id.loc.gov/authorities/classification/PN56.I593
 
-https://www.wikidata.org/wiki/Q94275676, rdf:type, http://xmlns.com/foaf/0.1/Person
-https://www.wikidata.org/wiki/Q7374, rdf:type, http://xmlns.com/foaf/0.1/Person
-https://www.wikidata.org/wiki/Q7374, dcterms:relation, https://id.loc.gov/authorities/subjects/sh95007658
+https://www.wikidata.org/wiki/Q94275676, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
+https://www.wikidata.org/wiki/Q7374, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
+https://www.wikidata.org/wiki/Q7374, http://purl.org/dc/terms/relation, https://id.loc.gov/authorities/subjects/sh95007658.html
