@@ -1,22 +1,22 @@
 Subject,Predicate,Object
-"Truffaut/Hitchcock (1966)",dcterms:title,"Truffaut/Hitchcock (Le Cinéma selon Alfred Hitchcock)"
-"Truffaut/Hitchcock (1966)",rdf:type,https://schema.org/Book
-"Truffaut/Hitchcock (1966)",schema:author,http://viaf.org/viaf/102375575
-"Truffaut/Hitchcock (1966)",schema:about,https://www.wikidata.org/wiki/Q7374
-"Truffaut/Hitchcock (1966)",dcterms:date,"1966"
-"Truffaut/Hitchcock (1966)",dcterms:publisher,https://www.wikidata.org/wiki/Q2696397
-"Truffaut/Hitchcock (1966)",dcterms:provenance,https://www.wikidata.org/wiki/Q461
-"Truffaut/Hitchcock (1966)",dcterms:description,"Book by Truffaut documenting a week-long conversation with Hitchcock reflecting on his career and film techniques."
-"Truffaut/Hitchcock (1966)",schema:encodingFormat,http://www.loc.gov/MARC21/slim
-"Truffaut/Hitchcock (1966)",dcterms:subject,https://www.wikidata.org/wiki/Q7374
-"Truffaut/Hitchcock (1966)",dcterms:subject,https://id.loc.gov/authorities/subjects/sh95007658
-"Truffaut/Hitchcock (1966)",dcterms:subject,https://id.loc.gov/authorities/subjects/sh85088047
-"Truffaut/Hitchcock (1966)",dcterms:subject,http://vocab.getty.edu/aat/300312209
-"Truffaut/Hitchcock (1966)",dcterms:subject,http://vocab.getty.edu/aat/300026392
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/title,"Truffaut/Hitchcock (Le Cinéma selon Alfred Hitchcock)"
+"Truffaut/Hitchcock (1966)",http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Book
+"Truffaut/Hitchcock (1966)",https://schema.org/author,http://viaf.org/viaf/102375575
+"Truffaut/Hitchcock (1966)",https://schema.org/about,https://www.wikidata.org/wiki/Q7374
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/date,"1966"
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/publisher,https://www.wikidata.org/wiki/Q2696397
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/provenance,https://www.wikidata.org/wiki/Q461
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/description,"Book by Truffaut documenting a week-long conversation with Hitchcock reflecting on his career and film techniques."
+"Truffaut/Hitchcock (1966)",https://schema.org/encodingFormat,http://www.loc.gov/MARC21/slim
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/subject,https://www.wikidata.org/wiki/Q7374
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/subjects/sh95007658.html
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/subject,https://id.loc.gov/authorities/subjects/sh85088047.html
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300312209
+"Truffaut/Hitchcock (1966)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300026392
 
-https://www.wikidata.org/wiki/Q53002, rdf:type, http://xmlns.com/foaf/0.1/Person
-https://www.wikidata.org/wiki/Q7374, rdf:type, http://xmlns.com/foaf/0.1/Person
-https://id.loc.gov/authorities/subjects/sh95007658.html, rdf:type, https://schema.org/genre
-http://vocab.getty.edu/aat/300026392, rdf:type, https://schema.org/CreativeWork
-http://vocab.getty.edu/aat/300026392, schema:isPartOf, "Truffaut/Hitchcock (1966)"
-http://vocab.getty.edu/aat/300026392, schema:about, https://id.loc.gov/authorities/subjects/sh95007658
+https://www.wikidata.org/wiki/Q53002, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
+https://www.wikidata.org/wiki/Q7374, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
+https://id.loc.gov/authorities/subjects/sh95007658.html, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/genre
+http://vocab.getty.edu/aat/300026392, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/CreativeWork
+http://vocab.getty.edu/aat/300026392, https://schema.org/isPartOf, "Truffaut/Hitchcock (1966)"
+http://vocab.getty.edu/aat/300026392, https://schema.org/about, https://id.loc.gov/authorities/subjects/sh95007658.html
