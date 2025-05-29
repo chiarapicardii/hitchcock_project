@@ -1,22 +1,22 @@
 Subject,Predicate,Object
-"Hitchcock shooting the shower scene of Psycho (1960)",dcterms:title,"Hitchcock shooting the shower scene of Psycho"
-"Hitchcock shooting the shower scene of Psycho (1960)",rdf:type,https://schema.org/photo
-"Hitchcock shooting the shower scene of Psycho (1960)",schema:creator,"Shamley Productions, Paramount Pictures"
-"Hitchcock shooting the shower scene of Psycho (1960)",dcterms:date,"1960"
-"Hitchcock shooting the shower scene of Psycho (1960)",dcterms:provenance,https://www.wikidata.org/wiki/Q565
-"Hitchcock shooting the shower scene of Psycho (1960)",dcterms:description,"Photo of Alfred Hitchcock & Janet Leigh from the 1960 film Psycho, showing Hitchcock directing the iconic shower scene."
-"Hitchcock shooting the shower scene of Psycho (1960)",schema:about,https://www.wikidata.org/wiki/Q7374
-"Hitchcock shooting the shower scene of Psycho (1960)",schema:about,https://www.wikidata.org/wiki/Q205314
-"Hitchcock shooting the shower scene of Psycho (1960)",schema:about,https://www.wikidata.org/wiki/Q6765157
-"Hitchcock shooting the shower scene of Psycho (1960)",schema:encodingFormat,https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling
-"Hitchcock shooting the shower scene of Psycho (1960)",dcterms:subject,http://vocab.getty.edu/aat/300263876
-"Hitchcock shooting the shower scene of Psycho (1960)",dcterms:subject,http://id.loc.gov/authorities/classification/PN6084.A25
-"Hitchcock shooting the shower scene of Psycho (1960)",dcterms:subject,http://vocab.getty.edu/aat/300312209
-"Hitchcock shooting the shower scene of Psycho (1960)",dcterms:subject,http://vocab.getty.edu/aat/300435206
+"Hitchcock shooting the shower scene of Psycho (1960)",http://purl.org/dc/terms/title,"Hitchcock shooting the shower scene of Psycho"
+"Hitchcock shooting the shower scene of Psycho (1960)",http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/photo
+"Hitchcock shooting the shower scene of Psycho (1960)",https://schema.org/creator,"Shamley Productions, Paramount Pictures"
+"Hitchcock shooting the shower scene of Psycho (1960)",http://purl.org/dc/terms/date,"1960"
+"Hitchcock shooting the shower scene of Psycho (1960)",http://purl.org/dc/terms/provenance,https://www.wikidata.org/wiki/Q565
+"Hitchcock shooting the shower scene of Psycho (1960)",http://purl.org/dc/terms/description,"Photo of Alfred Hitchcock & Janet Leigh from the 1960 film Psycho, showing Hitchcock directing the iconic shower scene."
+"Hitchcock shooting the shower scene of Psycho (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q7374
+"Hitchcock shooting the shower scene of Psycho (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q205314
+"Hitchcock shooting the shower scene of Psycho (1960)",https://schema.org/about,https://www.wikidata.org/wiki/Q6765157
+"Hitchcock shooting the shower scene of Psycho (1960)",https://schema.org/encodingFormat,https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling
+"Hitchcock shooting the shower scene of Psycho (1960)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300263876
+"Hitchcock shooting the shower scene of Psycho (1960)",http://purl.org/dc/terms/subject,http://id.loc.gov/authorities/classification/PN6084.A25
+"Hitchcock shooting the shower scene of Psycho (1960)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300312209
+"Hitchcock shooting the shower scene of Psycho (1960)",http://purl.org/dc/terms/subject,http://vocab.getty.edu/aat/300435206
 
-"Hitchcock shooting the shower scene of Psycho (1960)",schema:mentions,https://www.wikidata.org/wiki/Q163038
-https://www.wikidata.org/wiki/Q205314, schema:isPartOf, https://www.wikidata.org/wiki/Q163038
-https://www.wikidata.org/wiki/Q7374, schema:director, https://www.wikidata.org/wiki/Q163038
-https://www.wikidata.org/wiki/Q7374, rdf:type, http://xmlns.com/foaf/spec/#term_Person
-https://www.wikidata.org/wiki/Q205314, rdf:type, http://xmlns.com/foaf/spec/#term_Person
-https://www.wikidata.org/wiki/Q163038, rdf:type, https://schema.org/Movie
+"Hitchcock shooting the shower scene of Psycho (1960)",https://schema.org/mentions,https://www.wikidata.org/wiki/Q163038
+https://www.wikidata.org/wiki/Q205314, https://schema.org/isPartOf, https://www.wikidata.org/wiki/Q163038
+https://www.wikidata.org/wiki/Q7374, https://schema.org/director, https://www.wikidata.org/wiki/Q163038
+https://www.wikidata.org/wiki/Q7374, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/spec/#term_Person
+https://www.wikidata.org/wiki/Q205314, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/spec/#term_Person
+https://www.wikidata.org/wiki/Q163038, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/Movie
