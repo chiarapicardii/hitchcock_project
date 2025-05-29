@@ -22,7 +22,7 @@ Subject,Predicate,Object
 https://www.wikidata.org/wiki/Q296804, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
 https://www.wikidata.org/wiki/Q317033, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://xmlns.com/foaf/0.1/Person
 https://id.loc.gov/authorities/subjects/sh95007658, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/genre
-http://vocab.getty.edu/aat/300263865, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.otg/MusicAlbumProductionType
+http://vocab.getty.edu/aat/300263865, http://www.w3.org/1999/02/22-rdf-syntax-ns#type, https://schema.org/MusicAlbumProductionType
 "Alfred Hitchcock Presents…Signatures In Suspense (1999)", https://schema.org/isPartOf, http://vocab.getty.edu/aat/300263865
 http://vocab.getty.edu/aat/300263865, https://schema.org/isPartOf, https://id.loc.gov/authorities/subjects/sh95007658
 
