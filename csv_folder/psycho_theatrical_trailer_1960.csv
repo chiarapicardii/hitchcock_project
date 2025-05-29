@@ -13,4 +13,4 @@ Subject,Predicate,Object
 "Psycho Theatrical Trailer (1960)",dcterms:subject,http://vocab.getty.edu/aat/300435206
 "Psycho Theatrical Trailer (1960)",dcterms:subject,http://vocab.getty.edu/aat/300069789
 "Psycho Theatrical Trailer (1960)",schema:isPartOf,http://vocab.getty.edu/aat/300069789
-https://viaf.org/viaf/49226917,schema:director,https://www.wikidata.org/wiki/Q163038
+https://viaf.org/viaf/49226917, schema:director, https://www.wikidata.org/wiki/Q163038
