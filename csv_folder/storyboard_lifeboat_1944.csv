@@ -14,6 +14,7 @@ Subject,Predicate,Object
 "Storyboard for Lifeboat (1944)",skos:inScheme,https://www.wikidata.org/wiki/Q1705270
 "Storyboard for Lifeboat (1944)",dcterms:description,"Storyboard for Alfred Hitchcock's production of Lifeboat (1944), depicting multiple scenes with annotations and script excerpts, offering insights into the film's visual and directorial approach."
 
-"Storyboard for Lifeboat (1944)",rdf:type,https://schema.org/VisualArtwork
-https://viaf.org/viaf/49226917,schema:director,https://www.wikidata.org/wiki/Q1170179
-Storyboard for Lifeboat (1944),schema:step,http://vocab.getty.edu/aat/300263876
+"Storyboard for Lifeboat (1944)", rdf:type, https://schema.org/VisualArtwork
+https://viaf.org/viaf/49226917, schema:director, https://www.wikidata.org/wiki/Q1170179
+Storyboard for Lifeboat (1944), schema:step, http://vocab.getty.edu/aat/300263876
+
