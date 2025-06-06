@@ -3,6 +3,7 @@ This repository contains of the final project for the _Information Science and C
 
 # The project 
 The project focuses on creating structured data starting from an initial concept and its related items, including both a web-page documentation and a series of related files. 
+
 We decided to focus on **Alfred Hitchcock's idea of suspance**, documenting the process on a web page [hitchcockpresentssuspance.it](https://hitchcockpresentsuspance.my.canva.site/) and uploading all the files on this Github repository.
 
 ### Repository contents 
