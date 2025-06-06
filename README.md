@@ -8,7 +8,7 @@ We decided to focus on **Alfred Hitchcock's idea of suspance**, documenting the 
 
 ### Repository contents 
 In this repository we uploaded: 
-- A folder containing the 10 .csv describing the items [csv_folder](https://github.com/chiarapicardii/hitchcock_project/tree/main/csv_folder)
+- A folder containing the 10 .csv files describing the items [csv_folder](https://github.com/chiarapicardii/hitchcock_project/tree/main/csv_folder)
 - A folder containing Psycho's script enctyption: both XML/TEI and its trasnformation to HTML [Psycho enryption](https://github.com/chiarapicardii/hitchcock_project/tree/main/Psycho%20encryption%20%28XML%5CTEI%2C%20HTML%29)
 - A folder containing the .csv trasformation to RDF, with the Python script and the Turtle (.ttl) file produced [from_csv_to_RDF](https://github.com/chiarapicardii/hitchcock_project/tree/main/from_csv_to_RDF)
 - A folder containing the XML/TEI transformation to RDF, with the Python script and the Turtle (.ttl) file produced [from_xml\tei_to_RDF](https://github.com/chiarapicardii/hitchcock_project/tree/main/from_xml%5Ctei_to_RDF)
